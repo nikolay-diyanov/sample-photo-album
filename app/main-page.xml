@@ -1,0 +1,6 @@
+<Page loaded="onPageLoaded" xmlns="http://www.nativescript.org/tns.xsd" >
+   <GridLayout rows="*, auto">
+       <Image id="img" row="0" />
+       <Button tap="tapAction" text="Take a selfie!" row="1"/>
+   </GridLayout>
+</Page>
